@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+__pycache__/
+.venv/
+node_modules/
+再栈_本地演示记录*.json
